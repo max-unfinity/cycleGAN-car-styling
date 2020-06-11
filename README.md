@@ -1,4 +1,4 @@
-## cycleGAN car styling example
+## CycleGAN car styling example
 
 This GAN can paint and style your boring cars!
 
